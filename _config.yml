@@ -45,4 +45,4 @@ collections:
     output: true
   gallery:
     output: true
-resources_name: media
+resources_name: resources
