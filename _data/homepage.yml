@@ -16,23 +16,23 @@ hero-subtitle: ""
 hero-banner: /images/img_banner.png
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /about-the-award/
+#button:
+#  - text: Learn More
+#    url: /about-the-award/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: About The Award
+    description: 
+    url: /about-the-award/
+  - title: Nominate
+    description: 
+    url: /nominate/
 
+#  - title: Page A
+#    description: Page A is important too
+#    url: https://yahoo.com
+#    external: true
+    
 # resources-title: Resources
 # resources-subtitle: Be in the know
 # resources-more-button: More Resources
