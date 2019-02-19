@@ -10,10 +10,10 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/pae_logo.png
 
-# Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+# Homepage Banner
+Hp-title: Hero title
+Hp-subtitle: Hero subtitle
+Hp-banner: /images/img_banner01.png
 
 #Call to Action Button
 button:
