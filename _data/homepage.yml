@@ -14,12 +14,11 @@ agency-logo: /images/pae_logo.png
 hero-title: ""
 hero-subtitle: ""
 hero-banner: /images/img_banner.png
-[](/about-the-award/)
 
 #Call to Action Button
-#button:
-#  - text: Learn More
-#    url: /about-the-award/
+button:
+  - text: Learn More
+    url: /about-the-award/
     
 key-highlights:
   - title: Highlight A
