@@ -13,7 +13,7 @@ agency-logo: /images/pae_logo.png
 # Homepage Banner
 Hero-title: Hero title
 Hero-subtitle: Hero subtitle
-Hero-banner: /images/img_banner01.png
+Hero-banner: /images/hero-banner.png
 
 #Call to Action Button
 button:
