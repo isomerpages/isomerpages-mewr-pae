@@ -11,9 +11,9 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/pae_logo.png
 
 # Homepage Banner
-Hp-title: Hero title
-Hp-subtitle: Hero subtitle
-Hp-banner: /images/img_banner01.png
+Hero-title: Hero title
+Hero-subtitle: Hero subtitle
+Hero-banner: /images/img_banner01.png
 
 #Call to Action Button
 button:
