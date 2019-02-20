@@ -10,12 +10,15 @@ breadcrumb: Nominate
 Nominees of the President's Award for the Environment (PAE) must be exemplary stewards of our environment and have demonstrated long-term commitment towards protecting and conserving our natural and living environment. They are exceptional individuals, educational institutions and organisations that have made an impact towards a sustainable Singapore.
 
 **Individuals**
+
 Individuals must be Singapore Citizens or Singapore Permanent Residents.
 
 **Educational institutions**
+
 Educational institutions include Primary, Secondary Schools, Junior Colleges, Institutes of Higher Learning, International Schools and other private educational institutions registered in Singapore.
 
 **Organisations**
+
 Organisations include grassroots organisations, private companies, NGOs and volunteer groups registered in Singapore.
 
 ### How to nominate?
