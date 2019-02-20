@@ -19,6 +19,6 @@ Nominees of the President's Award for the Environment (PAE) must be exemplary st
 
 Thank you for your interest. **Kindly note that the nomination period for the President’s Award for the Environment (PAE) 2017 has closed.**
 
-Please email the PAE Secretariat at mewr_pae@mewr.gov.sg (email) if you are interested in the next round of nominations for PAE 2018.
+Please email the PAE Secretariat at <mewr_pae@mewr.gov.sg> if you are interested in the next round of nominations for PAE 2018.
 
 PAE 2017 recipients will be announced in the fourth quarter of 2017, and will each receive a trophy and a certificate from the President of the Republic of Singapore.
