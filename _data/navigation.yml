@@ -64,10 +64,5 @@
     url: /gallery/2008/
 - title: Media
   url: /media/
-  sub-links:
-  - title: All
-    url: /media/
-  - title: Media
-    url: /media/media/
 - title: Contact Us
   url: /contact-us/
