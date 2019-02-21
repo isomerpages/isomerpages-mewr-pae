@@ -8,12 +8,12 @@
 favicon: /images/favicon-isomer.ico
 
 # Agency logo
-agency-logo: /images/pae_logo.png
+agency-logo: /images/pae-logo.png
 
 # Hero Banner
 hero-title: ""
 hero-subtitle: ""
-hero-banner: /images/img_banner.png
+hero-banner: /images/img-nominate.png
 
 #Call to Action Button
 #button:
