@@ -4,6 +4,8 @@
 #                                #
 ##################################
 
+- title: Contact Us
+  url: /contact-us/
 - title: About The Award
   url: /about-the-award/
 - title: Nominate
@@ -62,5 +64,4 @@
     url: /gallery/2008/
   - title: 2007
     url: /gallery/2007/
-- title: Contact Us
-  url: /contact-us/
+
