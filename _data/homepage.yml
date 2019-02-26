@@ -35,7 +35,7 @@ button:
 #    url: https://yahoo.com
 #    external: true
     
-resources-title: Media
-resources-subtitle: Be in the know
+resources-title: 
+resources-subtitle: Media
 resources-more-button: More Resources
 resources-more-button-url: media/
