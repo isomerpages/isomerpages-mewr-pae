@@ -22,20 +22,20 @@ button:
   - text: Nominate
     url: /nominate/
     
-key-highlights:
-  - title: About The Award
-    description: 
-    url: /about-the-award/
-  - title: Nominate
-    description: 
-    url: /nominate/
+#key-highlights:
+#  - title: About The Award
+#    description: 
+#    url: /about-the-award/
+#  - title: Nominate
+#    description: 
+#    url: /nominate/
 
 #  - title: Page A
 #    description: Page A is important too
 #    url: https://yahoo.com
 #    external: true
     
-# resources-title: Resources
-# resources-subtitle: Be in the know
-# resources-more-button: More Resources
-# resources-more-button-url: media/
+resources-title: Media
+resources-subtitle: Be in the know
+resources-more-button: More Resources
+resources-more-button-url: media/
