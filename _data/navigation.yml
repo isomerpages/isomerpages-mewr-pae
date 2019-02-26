@@ -4,8 +4,6 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
 - title: About The Award
   url: /about-the-award/
 - title: Nominate
@@ -14,31 +12,6 @@
   url: /media/
 - title: Award Recipients
   url: /award-recipients/2017/
-  sub-links:
-  - title: 2017
-    url: /award-recipients/2017/
-  - title: 2016
-    url: /award-recipients/2016/
-  - title: 2015
-    url: /award-recipients/2015/
-  - title: 2014
-    url: /award-recipients/2014/
-  - title: 2013
-    url: /award-recipients/2013/
-  - title: 2012
-    url: /award-recipients/2012/
-  - title: 2011
-    url: /award-recipients/2011/
-  - title: 2010
-    url: /award-recipients/2010/
-  - title: 2009
-    url: /award-recipients/2009/
-  - title: 2008
-    url: /award-recipients/2008/
-  - title: 2007
-    url: /award-recipients/2007/
-  - title: 2006
-    url: /award-recipients/2006/
 - title: Gallery
   url: /gallery/2017/
   sub-links:
@@ -64,4 +37,5 @@
     url: /gallery/2008/
   - title: 2007
     url: /gallery/2007/
-
+- title: Contact Us
+  url: /contact-us/
