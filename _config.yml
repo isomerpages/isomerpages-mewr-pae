@@ -42,7 +42,7 @@ custom_print_css_path: "/assets/css/print.css"
 baseurl: ""
 collections:
   award-recipients:
-    output: false
+    output: true
   gallery:
-    output: false
+    output: true
 resources_name: resources
