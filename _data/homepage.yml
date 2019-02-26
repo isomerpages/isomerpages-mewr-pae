@@ -17,6 +17,8 @@ hero-banner: /images/banner-2019.png
 
 #Call to Action Button
 button:
+  - text: About The Award
+    url: /about-the-award/
   - text: Nominate
     url: /nominate/
     
