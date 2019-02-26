@@ -5,7 +5,7 @@ permalink: /about-the-award/
 breadcrumb: About The Award
 ---
 
-![About the Award](/images/pae-about.png)
+![About the Award](/images/gallery/pae-2017-04.png)
 
 The President's Award for the Environment (PAE) is the highest environmental accolade for individuals, educational institutions and organisations that have made outstanding contributions towards environmental and water resource sustainability in Singapore. It is an biennial award organised by the Ministry of the Environment and Water Resources (MEWR) that recognises and honours the sustained environment- and water-related contributions by environmental champions from the People, Public and Private (3P) sectors.
 
