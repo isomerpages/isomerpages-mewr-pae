@@ -8,6 +8,8 @@
   url: /about-the-award/
 - title: Nominate
   url: /nominate/
+- title: Media
+  url: /media/
 - title: Award Recipients
   url: /award-recipients/2017/
   sub-links:
@@ -60,7 +62,5 @@
     url: /gallery/2008/
   - title: 2007
     url: /gallery/2007/
-- title: Media
-  url: /media/
 - title: Contact Us
   url: /contact-us/
