@@ -5,10 +5,12 @@ breadcrumb: FAQ
 title: FAQ
 ---
 
-### **FAQ**
+> Can't find the answers to what you are looking for? Drop us a note at <mewr_pae@mewr.gov.sg> 
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+### 1. What are the awards being run that recognises water and environmental sustainability efforts? 
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+The **President's Award for the Environment (PAE)** is the highest environmental accolade for individuals, educational institutions and organisations that have made outstanding contributions towards environmental and water resource sustainability in Singapore. It is an annual award organised by the Ministry of the Environment and Water Resources (MEWR) that recognises and honours the sustained environment- and water-related contributions by environmental champions from the People, Public and Private (3P) sectors. More information can be found [here](/about-the-award/){:target="_blank"}. 
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+For other awards related to environmental sustainability efforts, you may visit NEA's website [here](https://www.nea.gov.sg/programmes-grants/grants-and-awards){:target="_blank"}. 
+
+For other awards related to water sustainability efforts, you may visit PUB's website [here](https://www.pub.gov.sg/getinvolved){:target="_blank"}.
