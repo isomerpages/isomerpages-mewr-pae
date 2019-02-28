@@ -16,19 +16,19 @@ hero-subtitle: "Nominate exceptional individuals, educational institutions, and 
 hero-banner: /images/banner-2019.jpg
 
 #Call to Action Button
-button:
-  - text: About The Award
-    url: /about-the-award/
-  - text: Nominate
-    url: /nominate/
-    
-#key-highlights:
-#  - title: About The Award
-#    description: 
+#button:
+#  - text: About The Award
 #    url: /about-the-award/
-#  - title: Nominate
-#    description: 
+#  - text: Nominate
 #    url: /nominate/
+    
+key-highlights:
+  - title: About The Award
+    description: 
+    url: /about-the-award/
+  - title: Nominate
+    description: Nominate exceptional individuals, educational institutions, and organisations today
+    url: /nominate/
 
 #  - title: Page A
 #    description: Page A is important too
