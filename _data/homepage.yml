@@ -11,24 +11,24 @@ favicon: /images/pae-icon.ico
 agency-logo: /images/pae-logo.png
 
 # Hero Banner
-hero-title: "Nominations close on 3 April 2019"
-hero-subtitle: "Nominate exceptional individuals, educational institutions, and organisations today"
+hero-title: Nominations close on 3 April 2019
+hero-subtitle: Nominate exceptional individuals, educational institutions, and organisations today
 hero-banner: /images/banner-2019.jpg
 
 #Call to Action Button
-button:
-  - text: About The Award
-    url: /about-the-award/
-  - text: Nominate
-    url: /nominate/
-    
-#key-highlights:
-#  - title: About The Award
-#    description: 
+#button:
+#  - text: About The Award
 #    url: /about-the-award/
-#  - title: Nominate
-#    description: 
+#  - text: Nominate
 #    url: /nominate/
+    
+key-highlights:
+  - title: About The Award
+    description: 
+    url: /about-the-award/
+  - title: Nominate
+    description: 
+    url: /nominate/
 
 #  - title: Page A
 #    description: Page A is important too
@@ -37,5 +37,5 @@ button:
     
 resources-title: 
 resources-subtitle: Media
-resources-more-button: More Resources
+resources-more-button: More Media
 resources-more-button-url: media/
