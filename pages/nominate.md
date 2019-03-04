@@ -19,11 +19,11 @@ Nominees of the President's Award for the Environment (PAE) must be exemplary st
 
 **The nomination period for the President’s Award for the Environment (PAE) 2019 is from 20 February 2019 to 3 April 2019.**
 
-[PAE 2019 Nomination form - Annex A - Individual](https://www.mewr.gov.sg/docs/default-source/default-document-library/pae-2019-nomination-form---annex-a---individuala7a3823af22f6eceb9b0ff0000fcc945.docx)
+[PAE 2019 Nomination form - Annex A - Individual](/forms/pae-2019-nomination-annex-a-individual.docx)
 
-[PAE 2019 Nomination form - Annex B - Educational institution](https://www.mewr.gov.sg/docs/default-source/default-document-library/pae-2019-nomination-form---annex-b---educational-institutionefa2823af22f6eceb9b0ff0000fcc945.docx)
+[PAE 2019 Nomination form - Annex B - Educational institution](/forms/pae-2019-nomination-annex-b-educational-institution.docx)
 
-[PAE 2019 Nomination form - Annex C - Organisation](https://www.mewr.gov.sg/docs/default-source/default-document-library/pae-2019-nomination-form---annex-c---organisationcaa2823af22f6eceb9b0ff0000fcc945.docx)
+[PAE 2019 Nomination form - Annex C - Organisation](/forms/pae-2019-nomination-annex-c-organisation.docx)
 
 Please email your completed nomination form to the PAE Secretariat at <mewr_pae@mewr.gov.sg>. You can also contact us if you have further queries.
 
