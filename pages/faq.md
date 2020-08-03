@@ -9,7 +9,7 @@ title: FAQ
 
 ### 1. What are the awards being run that recognises water and environmental sustainability efforts? 
 
-The **President's Award for the Environment (PAE)** is the highest environmental accolade for individuals, educational institutions and organisations that have made outstanding contributions towards environmental and water resource sustainability in Singapore. It is an annual award organised by the Ministry of the Environment and Water Resources (MEWR) that recognises and honours the sustained environment- and water-related contributions by environmental champions from the People, Public and Private (3P) sectors. More information can be found [here](/about-the-award/){:target="_blank"}. 
+The **President's Award for the Environment (PAE)** is the highest environmental accolade for individuals, educational institutions and organisations that have made outstanding contributions towards environmental and water resource sustainability in Singapore. It is an annual award organised by the Ministry of Sustainability and the Environment (MSE) that recognises and honours the sustained environment- and water-related contributions by environmental champions from the People, Public and Private (3P) sectors. More information can be found [here](/about-the-award/){:target="_blank"}. 
 
 For other awards related to environmental sustainability efforts, you may visit NEA's website [here](https://www.nea.gov.sg/programmes-grants/grants-and-awards){:target="_blank"}. 
 
