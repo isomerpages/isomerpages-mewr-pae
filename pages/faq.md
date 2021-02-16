@@ -5,7 +5,7 @@ breadcrumb: FAQ
 title: FAQ
 ---
 
-> Can't find the answers to what you are looking for? Drop us a note at <mewr_pae@mewr.gov.sg> 
+> Can't find the answers to what you are looking for? Drop us a note at <mse_pae@mse.gov.sg> 
 
 ### 1. What are the awards being run that recognises water and environmental sustainability efforts? 
 
