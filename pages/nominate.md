@@ -23,7 +23,7 @@ Nominees of the President's Award for the Environment (PAE) must be exemplary st
 
 [PAE 2021 Nomination form - Annex B - Educational institution](/forms/President's Award for the Environment 2021 - Nomination Form Annex B Educational Institutions_FINAL.docx)
 
-[PAE 2019 Nomination form - Annex C - Organisation](/forms/pae-2019-nomination-annex-c-organisation.docx)
+[PAE 2019 Nomination form - Annex C - Organisation](/forms/President's Award for the Environment 2021 - Nomination Form Annex C Organisation_FINAL.docx)
 
 Please email your completed nomination form to the PAE Secretariat at <mse_pae@mse.gov.sg>. You can also contact us if you have further queries.
 
