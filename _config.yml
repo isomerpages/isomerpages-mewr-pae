@@ -28,7 +28,7 @@ homepage_hero_i_want_to: false
 homepage_resources: true
 
 # Feedback Form URL
-feedback_form_url: "https://www.mse.gov.sg/top/feedback"
+feedback_form_url: "https://form.gov.sg/#!/5f9bbe55fb5198001166faec"
 
 # FAQ URL
 faq_url: "/faq/"
