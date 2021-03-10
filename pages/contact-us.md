@@ -1,4 +1,4 @@
 ---
 title: Contact Us
-url: https://www.mse.gov.sg/contact-us/
+permalink: https://www.mse.gov.sg/contact-us/
 ---
