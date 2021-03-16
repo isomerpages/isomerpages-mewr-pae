@@ -20,20 +20,28 @@ Nominees of the President's Award for the Environment (PAE) must be exemplary st
 **The nomination period for the President’s Award for the Environment (PAE) 2021 is from 10 March 2021 to 30 April 2021.**
 
 <script>
-function handleOutboundLinkClicks(event) {
-  ga('send', 'event', {
-    eventCategory: 'Outbound Link',
-    eventAction: 'click',
-    eventLabel: event.target.href,
-    transport: 'beacon'
-  });
+/**
+* Function that captures a click on an outbound link in Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label. Setting the transport method to 'beacon' lets the hit be sent
+* using 'navigator.sendBeacon' in browser that support it.
+*/
+
+var url = new URL('/forms/pae-2021-Annex-A.docx');
+
+var captureOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {
+     'transport': 'beacon',
+     'hitCallback': function(){document.location = url;}
+   });
 }
+
 </script>
 
 <!-- [PAE 2021 Nomination form - Annex A - Individual](/forms/pae-2021-Annex-A.docx) -->
 
 <a href="/forms/pae-2021-Annex-A.docx"
-   onclick="handleOutboundLinkClicks('/forms/pae-2021-Annex-A.docx'); return false;">
+   onclick="captureOutboundLink('/forms/pae-2021-Annex-A.docx'); return false;">
 PAE 2021 Nomination form - Annex A - Individual
 </a>
 
