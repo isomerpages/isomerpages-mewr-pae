@@ -19,7 +19,24 @@ Nominees of the President's Award for the Environment (PAE) must be exemplary st
 
 **The nomination period for the President’s Award for the Environment (PAE) 2021 is from 10 March 2021 to 30 April 2021.**
 
-[PAE 2021 Nomination form - Annex A - Individual](/forms/pae-2021-Annex-A.docx)
+<script>
+function handleOutboundLinkClicks(event) {
+  ga('send', 'event', {
+    eventCategory: 'Outbound Link',
+    eventAction: 'click',
+    eventLabel: event.target.href,
+    transport: 'beacon'
+  });
+}
+</script>
+
+<!-- [PAE 2021 Nomination form - Annex A - Individual](/forms/pae-2021-Annex-A.docx) -->
+
+<a href="/forms/pae-2021-Annex-A.docx"
+   onclick="handleOutboundLinkClicks('/forms/pae-2021-Annex-A.docx'); return false;">
+PAE 2021 Nomination form - Annex A - Individual
+</a>
+
 
 [PAE 2021 Nomination form - Annex B - Educational institution](/forms/pae-2021-Annex-B.docx)
 
