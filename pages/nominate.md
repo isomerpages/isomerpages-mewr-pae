@@ -17,7 +17,7 @@ Nominees of the President's Award for the Environment (PAE) must be exemplary st
 
 ### How to nominate?
 
-**The nomination period for the President’s Award for the Environment (PAE) 2021 is from 10 March 2021 to 30 April 2021.**
+**Nominations for the PAE have now closed.**
 
 <script>
 /**
@@ -39,7 +39,7 @@ var captureOutboundLink = function(url) {
 </script>
 
 <!-- [PAE 2021 Nomination form - Annex A - Individual](/forms/pae-2021-Annex-A.docx) -->
-
+<!-- 
 <a href="/forms/pae-2021-Annex-A.docx"
    onclick="captureOutboundLink('/forms/pae-2021-Annex-A.docx'); return false;">
 PAE 2021 Nomination form - Annex A - Individual
@@ -50,6 +50,6 @@ PAE 2021 Nomination form - Annex A - Individual
 
 [PAE 2021 Nomination form - Annex C - Organisation](/forms/pae-2021-Annex-C.docx)
 
-Please email your completed nomination form to the PAE Secretariat at <mse_pae@mse.gov.sg>. You can also contact us if you have further queries.
+Please email your completed nomination form to the PAE Secretariat at <mse_pae@mse.gov.sg>. You can also contact us if you have further queries. -->
 
 PAE 2021 recipients will be announced in the third quarter of 2021. They will receive a trophy and a certificate from the President of the Republic of Singapore.
