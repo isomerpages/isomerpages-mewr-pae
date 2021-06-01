@@ -36,16 +36,16 @@ colors:
   primary-color: '#B18904'
   secondary-color: '#B18904'
   media-colors:
-  - title: media-color-one
-    color: '#B18904'
-  - title: media-color-two
-    color: '#B18904'
-  - title: media-color-three
-    color: '#B18904'
-  - title: media-color-four
-    color: '#B18904'
-  - title: media-color-five
-    color: '#B18904'
+    - title: media-color-one
+      color: '#B18904'
+    - title: media-color-two
+      color: '#B18904'
+    - title: media-color-three
+      color: '#B18904'
+    - title: media-color-four
+      color: '#B18904'
+    - title: media-color-five
+      color: '#B18904'
 
 staging: https://isomer-mewrpae-staging.netlify.app
 prod: https://isomer-mewrpae-prod.netlify.app
