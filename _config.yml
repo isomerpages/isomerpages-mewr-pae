@@ -4,33 +4,23 @@ description: Description
 url: 'https://www.pae.gov.sg/'
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
 paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
-collections:
-    award-recipients:
-        output: true
-    gallery:
-        output: true
 resources_name: media
 exclude:
-    - travis-script.js
-    - .travis.yml
-    - README.md
-    - package.json
-    - package-lock.json
-    - node_modules
-    - vendor/bundle/
-    - vendor/cache/
-    - vendor/gems/
-    - vendor/ruby/
-    - Gemfile
-    - Gemfile.lock
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
 favicon: /images/pae-icon.ico
 google_analytics: UA-135564251-1
 linkedin-insights: 496363
@@ -38,10 +28,10 @@ facebook-pixel: 316717918988220
 permalink: none
 baseurl: ""
 defaults:
-    - scope:
-          path: ""
-      values:
-          layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
 colors:
   primary-color: '#B18904'
   secondary-color: '#B18904'
@@ -57,3 +47,11 @@ colors:
     - title: media-color-five
       color: '#B18904'
 
+staging: https://isomer-mewrpae-staging.netlify.app
+prod: https://isomer-mewrpae-prod.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
