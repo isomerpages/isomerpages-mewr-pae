@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: About The Award
+title: 'About The Award'
 permalink: /about-the-award/
-breadcrumb: About The Award
+breadcrumb: 'About The Award'
+
 ---
+
 
 ![About the Award](/images/gallery/pae-2017-04.jpg)
 
