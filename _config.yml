@@ -1,50 +1,57 @@
-title: Ministry of Sustainability and the Environment
+title: 'Ministry of Sustainability and the Environment'
 title-abbreviated: MSE
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "https://www.pae.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+description: Description
+url: 'https://www.pae.gov.sg/'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+paginate: 12
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+resources_name: media
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+favicon: /images/pae-icon.ico
+google_analytics: UA-135564251-1
+linkedin-insights: 496363
+facebook-pixel: 316717918988220
+permalink: none
+baseurl: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+colors:
+  primary-color: '#B18904'
+  secondary-color: '#B18904'
+  media-colors:
+    - title: media-color-one
+      color: '#B18904'
+    - title: media-color-two
+      color: '#B18904'
+    - title: media-color-three
+      color: '#B18904'
+    - title: media-color-four
+      color: '#B18904'
+    - title: media-color-five
+      color: '#B18904'
 
+staging: https://isomer-mewrpae-staging.netlify.app
+prod: https://isomer-mewrpae-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
+  - jekyll-paginate
   - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
-paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: true
-
-# Feedback Form URL
-feedback_form_url: "https://form.gov.sg/#!/5f9bbe55fb5198001166faec"
-
-# FAQ URL
-faq_url: "/faq/"
-faq_url_external: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-
-baseurl: ""
-collections:
-  award-recipients:
-    output: true
-  gallery:
-    output: true
-resources_name: media
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
+  - jekyll-remote-theme

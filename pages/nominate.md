@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Nominate
 permalink: /nominate/
 breadcrumb: Nominate
+
 ---
+
 
 ### Eligibility
 
@@ -27,7 +28,7 @@ Nominees of the President's Award for the Environment (PAE) must be exemplary st
 * using 'navigator.sendBeacon' in browser that support it.
 */
 
-var url = new URL('/forms/pae-2021-Annex-A.docx');
+var url = new URL('/files/pae-2021-Annex-A.docx');
 
 var captureOutboundLink = function(url) {
    ga('send', 'event', 'outbound', 'click', url, {
@@ -38,17 +39,17 @@ var captureOutboundLink = function(url) {
 
 </script>
 
-<!-- [PAE 2021 Nomination form - Annex A - Individual](/forms/pae-2021-Annex-A.docx) -->
+<!-- [PAE 2021 Nomination form - Annex A - Individual](/files/pae-2021-Annex-A.docx) -->
 <!-- 
-<a href="/forms/pae-2021-Annex-A.docx"
-   onclick="captureOutboundLink('/forms/pae-2021-Annex-A.docx'); return false;">
+<a href="/files/pae-2021-Annex-A.docx"
+   onclick="captureOutboundLink('/files/pae-2021-Annex-A.docx'); return false;">
 PAE 2021 Nomination form - Annex A - Individual
 </a>
 
 
-[PAE 2021 Nomination form - Annex B - Educational institution](/forms/pae-2021-Annex-B.docx)
+[PAE 2021 Nomination form - Annex B - Educational institution](/files/pae-2021-Annex-B.docx)
 
-[PAE 2021 Nomination form - Annex C - Organisation](/forms/pae-2021-Annex-C.docx)
+[PAE 2021 Nomination form - Annex C - Organisation](/files/pae-2021-Annex-C.docx)
 
 Please email your completed nomination form to the PAE Secretariat at <mse_pae@mse.gov.sg>. You can also contact us if you have further queries. -->
 
