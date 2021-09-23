@@ -10,6 +10,6 @@ breadcrumb: 'About The Award'
 
 The President's Award for the Environment (PAE) is the highest environmental accolade for individuals, educational institutions and organisations that have made outstanding contributions towards environment and sustainability, as well as building a resilient future for Singapore. It is an biennial award organised by the Ministry of Sustainability and the Environment (MSE) that recognises and honours the sustained contributions by environmental champions from the People, Public and Private (3P) sectors.
 
-Previous winners include Dr Tommy Koh, City Developments Limited and the Institute of Technical Education. All of whom have initiated programs for sustainable futures, educating the youth and the community in– showing responsibility towards the environment.
+Previous winners include Dr Tommy Koh, City Developments Limited and the Institute of Technical Education -- all of whom have initiated meaningful programmes for a sustainable future, including educating the youth and the community in showing responsibility towards the environment.
 
 Find out more about the [eligibility and nomination process](/nominate/) of the PAE.
