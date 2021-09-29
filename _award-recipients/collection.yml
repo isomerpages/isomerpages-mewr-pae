@@ -2,6 +2,7 @@ collections:
   award-recipients:
     output: true
     order:
+      - 2021.md
       - 2019.md
       - 2017.md
       - 2016.md
