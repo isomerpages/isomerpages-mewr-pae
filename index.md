@@ -8,20 +8,10 @@ image: /images/banner-2019.jpg
 permalink: /
 sections:
   - hero:
-      title: Recognising individuals, educational institutions and organisations
-      subtitle: For their outstanding contributions towards the environment and
-        sustainability, as well as building a resilient future for Singapore.
+      title: We have moved.
+      subtitle: Please update your bookmark with the new website link.
       background: /images/banner-2019.jpg
-      key_highlights:
-        - title: About The Award
-          description: null
-          url: /about-the-award/
-        - title: 2021 Recipients
-          description: null
-          url: /award-recipients/2021/
-  - resources:
-      title: Media
-      button: More Media
-      url: media/
+      button: Go to new site
+      url: https://www.mse.gov.sg/pae
 notification: "\n"
 ---
